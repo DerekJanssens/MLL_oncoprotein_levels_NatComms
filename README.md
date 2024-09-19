@@ -1,5 +1,5 @@
 # MLL_oncoprotein_levels_NatComms
-This README provides instructions for reproducing all of the figures in the manuscript "MLL oncoprotein levels influence binding sites and leukemia lineage identity." by Janssens et al. 2024. Nature Communications.
+This README provides instructions for reproducing all of the figures in the manuscript "MLL oncoprotein levels influence leukemia lineage identities." by Janssens et al. 2024. Nature Communications.
 
 The code for figure generation is all provided in the Jupyter Notbook "MLL_Oncoprotein_Levels.ipynb"
 
